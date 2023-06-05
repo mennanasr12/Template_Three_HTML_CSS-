@@ -1372,7 +1372,7 @@ header .wrapper {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-image: url(../Media/Images/discount-background1.jpg);
+  background-image: url(../Media/Images/discount-background1.webp);
   background-size: cover;
   animation: change-background 30s infinite;
 }
@@ -1663,10 +1663,10 @@ footer .section-4 img {
 @keyframes change-background {
   0%,
   100% {
-    background-image: url(../Media/Images/discount-background1.jpg);
+    background-image: url(../Media/Images/discount-background1.webp);
   }
   50% {
-    background-image: url(../Media/Images/discount-background2.jpg);
+    background-image: url(../Media/Images/discount-background2.webp);
   }
 }
 /* end aimation */
